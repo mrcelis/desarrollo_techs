@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_group">
+        <item>Work</item>
+        <item>School</item>
+        <item>College</item>
+        <item>Football</item>
+        <item>Poker Club</item>
+        <item>Friends</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Parcial Celis</string>
+    <string name="password">Pass</string>
+    <string name="user">User</string>
+    <string name="login">Login</string>
+    <string name="wrongPass">Login fail</string>
+    <string name="registrar">Add</string>
+    <string name="registro_titulo">Add contact</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Lastname</string>
+    <string name="telefono">Phone</string>
+    <string name="email">Email</string>
+    <string name="grupo">Group</string>
+    <string name="cumple">Birthday</string>
+    <string name="listado_contactos">Contacts</string>
+    <string name="nuevo_contacto">Add Contact</string>
+    <string name="salir">Exit</string>
+    <string name="campos_minimos">Field cannot be empty</string>
+    <string name="contact_registrado">Contact added</string>
+    <string name="contact_actualizado">Contact updated</string>
+
+    <string name="context_menu_editar">Edit</string>
+    <string name="context_menu_eliminar">Delete</string>
+    <string name="actualizar_contacto">Update</string>
+</resources>
